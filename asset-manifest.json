@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ShoppingList/static/css/main.52ca20e2.css",
+    "main.js": "/React-ShoppingList/static/js/main.68705a8b.js",
+    "static/js/787.93ca35c7.chunk.js": "/React-ShoppingList/static/js/787.93ca35c7.chunk.js",
+    "index.html": "/React-ShoppingList/index.html",
+    "main.52ca20e2.css.map": "/React-ShoppingList/static/css/main.52ca20e2.css.map",
+    "main.68705a8b.js.map": "/React-ShoppingList/static/js/main.68705a8b.js.map",
+    "787.93ca35c7.chunk.js.map": "/React-ShoppingList/static/js/787.93ca35c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca20e2.css",
+    "static/js/main.68705a8b.js"
+  ]
+}
